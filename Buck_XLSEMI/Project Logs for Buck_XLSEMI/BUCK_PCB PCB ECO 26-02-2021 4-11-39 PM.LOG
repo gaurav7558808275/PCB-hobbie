@@ -1,0 +1,15 @@
+Added Component: Designator=XL4015(TO-263-5)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AP1506-50K5G-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ap1506-50k5g-13/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com/assets/Datasheets/AP1506.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AP1506-50K5G-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=XL4015-1
+Added Pin To Net: NetName=Net3.3k_2 Pin=XL4015-2
+Added Pin To Net: NetName=Net47uH_1 Pin=XL4015-3
+Added Pin To Net: NetName=Net105_1 Pin=XL4015-4
+Added Pin To Net: NetName=Net105_2 Pin=XL4015-5
+Added Member To Class: ClassName=BUCK_shematics Member=Component 105
+Added Member To Class: ClassName=BUCK_shematics Member=Component XL4015

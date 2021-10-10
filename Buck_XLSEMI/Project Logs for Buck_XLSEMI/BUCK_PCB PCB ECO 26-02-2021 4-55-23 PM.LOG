@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=Net10k_2 Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=Cin-1
+Removed Pin From Net: NetName=Net105F_2 Pin=Cin-2
+Change Component Designator: OldDesignator=  NewDesignator=Vout
+Added Pin To Net: NetName=Net10k_2 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=Net105F_2 Pin=Cin-1
+Added Pin To Net: NetName=GND Pin=Cin-2
+Added Member To Class: ClassName=BUCK_shematics Member=Component 105F
+Added Member To Class: ClassName=BUCK_shematics Member=Component Vout 794120-1

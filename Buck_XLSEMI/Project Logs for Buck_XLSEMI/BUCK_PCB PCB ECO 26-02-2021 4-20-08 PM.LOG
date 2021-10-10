@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=BUCK_shematics Member=D?
+Added Component: Designator=Vin(TE_794120-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "794120-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/794120-1/TE%20Connectivity%20AMP%20Connectors/view-part/2777094/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Vout(TE_794120-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "794120-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/794120-1/TE%20Connectivity%20AMP%20Connectors/view-part/2777094/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net105_2 Pin=Vin-1
+Added Pin To Net: NetName=GND Pin=Vin-2
+Added Pin To Net: NetName=GND Pin=Vout-1
+Added Pin To Net: NetName=Net10k_2 Pin=Vout-2
+Added Member To Class: ClassName=BUCK_shematics Member=Component 105
+Added Member To Class: ClassName=BUCK_shematics Member=Component Vin
+Added Member To Class: ClassName=BUCK_shematics Member=Component Vout 794120-1

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin= -H
+Change Component Designator: OldDesignator=  NewDesignator=3.3k
+Change Component Designator: OldDesignator=  NewDesignator=10k
+Change Component Designator: OldDesignator=  NewDesignator=C1
+Added Member To Class: ClassName=BUCK_shematics Member=Component 3.3k
+Added Member To Class: ClassName=BUCK_shematics Member=Component 10k
+Added Member To Class: ClassName=BUCK_shematics Member=Component 105F CC
+Added Member To Class: ClassName=BUCK_shematics Member=Component C1 105F
+Added Room: Name=BUCK_shematics
